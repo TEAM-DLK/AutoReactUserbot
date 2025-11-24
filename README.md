@@ -2,17 +2,6 @@
 
 Automatically reacts to **new messages** in **PMs, Groups & Channels** with random emojis.
 
----
-
-## Features
-- Reacts with **40+ Telegram emojis**
-- Skips **edited & replied** messages
-- Per-chat **ON/OFF** using `/react`
-- Works in **Private, Groups, Channels**
-- FloodWait & error handling
-- Inline button control
-
----
 
 ## Setup
 
